@@ -1,0 +1,5 @@
+# Welcome to KeyboardDaily
+User-agent: *
+Disallow: /timeline
+Disallow: /approve
+Disallow: /content.json
